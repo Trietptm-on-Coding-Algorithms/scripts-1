@@ -1,0 +1,141 @@
+Extensive List Of Commonly Used Ports:
+
+Port: 20/21     Protocol: File Transfer Protocol                      TCP/UDP: TCP
+Port: 22        Protocol: SSH (Secure Shell)                          TCP/UDP: TCP
+Port: 23        Protocol: Telnet                                      TCP/UDP: TCP
+Port: 25/465    Protocol: (Simple Mail Transfer Protocol)             TCP/UDP: TCP
+Port: 53        Protocol: DNS (Domain Name System)                    TCP/UDP: BOTH
+Port: 67/68     Protocol: DHCP Server/Client                          TCP/UDP: TCP
+Port: 80        Protocol: (Hypertext Transfer Protocol)               TCP/UDP: BOTH
+Port: 88        Protocol: Kerberos                                    TCP/UDP: BOTH
+Port: 102       Protocol: MS Exchange                                 TCP/UDP: TCP
+Port: 110       Protocol: POP3 (Post Office Protocol)                 TCP/UDP: TCP
+Port: 113       Protocol: Ident                                       TCP/UDP: TCP
+Port: 119       Protocol: NNTP (Usenet)                               TCP/UDP: UDP
+Port: 123       Protocol: NTP (Network Time Protocol)                 TCP/UDP: UDP
+Port: 135       Protocol: Microsoft RPC                               TCP/UDP: BOTH
+Port: 137       Protocol: NetBIOS                                     TCP/UDP: BOTH
+Port: 143       Protocol: IMAP (Internet Message Access Protocol)     TCP/UDP: TCP
+Port: 161       Protocol: SNMP (Simple Network Management Protocol)   TCP/UDP: UDP
+Port: 177       Protocol: XDMCP                                       TCP/UDP: BOTH
+Port: 179       Protocol: BGP                                         TCP/UDP: BOTH
+Port: 201       Protocol: AppleTalk                                   TCP/UDP: BOTH
+Port: 264       Protocol: BGMP                                        TCP/UDP: BOTH
+Port: 318       Protocol: TSP                                         TCP/UDP: BOTH
+Port: 381       Protocol: Openview                                    TCP/UDP: BOTH
+Port: 389       Protocol: LDAP (Lightweight Directory Acces Protocol) TCP/UDP: BOTH
+Port: 411       Protocol: Connect                                     TCP/UDP: TCP
+Port: 434/435   Protocol: Mobile Network Protocol                     TCP/UDP: BOTH
+Port: 443       Protocol: HTTPS (HTTP with TLS/SSL)                   TCP/UDP: BOTH
+Port: 445       Protocol: Microsoft DS                                TCP/UDP: TCP
+Port: 464       Protocol: Kerberos                                    TCP/UDP: BOTH
+Port: 465       Protocol: SMTP Over SSL                               TCP/UDP: BOTH
+Port: 497       Protocol: Retrospect                                  TCP/UDP: BOTH
+Port: 500       Protocol: ISAKMP                                      TCP/UDP: BOTH
+Port: 512       Protocol: Rexec                                       TCP/UDP: BOTH
+Port: 513       Protocol: RLogin                                      TCP/UDP: TCP
+Port: 514       Protocol: Syslog                                      TCP/UDP: UDP
+Port: 515       Protocol: LPD/LPR                                     TCP/UDP: TCP
+Port: 520       Protocol: RIP                                         TCP/UDP: UDP
+Port: 521       Protocol: RIPng (IPv6)                                TCP/UDP: UDP
+Port: 540       Protocol: UUCP                                        TCP/UDP: BOTH
+Port: 546/547   Protocol: DHCPv6                                      TCP/UDP: BOTH
+Port: 554       Protocol: RTSP                                        TCP/UDP: BOTH
+Port: 560       Protocol: RMonitor                                    TCP/UDP: BOTH
+Port: 563       Protocol: NNTP Over SSL                               TCP/UDP: TCP
+Port: 587       Protocol: SMTP                                        TCP/UDP: BOTH
+Port: 591       Protocol: FileMaker                                   TCP/UDP: BOTH
+Port: 593       Protocol: Microsoft DCOM                              TCP/UDP: BOTH
+Port: 902       Protocol: VMware Server                               TCP/UDP: BOTH
+Port: 989       Protocol: SSL                                         TCP/UDP: TCP
+Port: 990       Protocol: FTPS (FTP with SSL)                         TCP/UDP: TCP
+Port: 993       Protocol: IMAP (IMAP with TLS/SSL)                    TCP/UDP: TCP
+Port: 995       Protocol: POP3 (POP3 with TLS/SSL)                    TCP/UDP: TCP
+Port: 1025      Protocol: Microsoft RPC                               TCP/UDP: BOTH
+Port: 1026      Protocol: Messenger                                   TCP/UDP: UDP
+Port: 1080      Protocol: SOCKS (PROXY)                               TCP/UDP: TCP
+Port: 1194      Protocol: OpenVPN                                     TCP/UDP: TCP
+Port: 1241      Protocol: Nessus                                      TCP/UDP: TCP
+Port: 1311      Protocol: Dell OpenManage                             TCP/UDP: TCP
+Port: 1337      Protocol: WASTE                                       TCP/UDP: BOTH
+Port: 1433      Protocol: SQL                                         TCP/UDP: TCP
+Port: 1589      Protocol: Cisco VQP                                   TCP/UDP: BOTH
+Port: 1701      Protocol: L2TP                                        TCP/UDP: UDP
+Port: 1723      Protocol: MS PPTP                                     TCP/UDP: TCP
+Port: 1725      Protocol: Steam                                       TCP/UDP: BOTH
+Port: 1741      Protocol: CiscoWorks 2000                             TCP/UDP: BOTH
+Port: 1755      Protocol: MS Media Server                             TCP/UDP: BOTH
+Port: 1812      Protocol: RADIUS                                      TCP/UDP: BOTH
+Port: 1863      Protocol: MSN                                         TCP/UDP: BOTH
+Port: 1985      Protocol: Cisco HSRP                                  TCP/UDP: BOTH
+Port: 2000      Protocol: Cisco SCCP                                  TCP/UDP: BOTH
+Port: 2002      Protocol: Cisco ACS                                   TCP/UDP: BOTH
+Port: 2049      Protocol: NFS                                         TCP/UDP: BOTH
+Port: 2082      Protocol: cPanel                                      TCP/UDP: BOTH
+Port: 2099      Protocol: PVP.Net (LoL)                               TCP/UDP: TCP
+Port: 2100      Protocol: Oracle XDB                                  TCP/UDP: BOTH
+Port: 2222      Protocol: DirectAdmin                                 TCP/UDP: BOTH
+Port: 2302      Protocol: Halo                                        TCP/UDP: BOTH
+Port: 2967      Protocol: Symantec AV                                 TCP/UDP: BOTH
+Port: 3050      Protocol: Interbase DB                                TCP/UDP: BOTH
+Port: 3074      Protocol: XBOX Live                                   TCP/UDP: BOTH
+Port: 3124      Protocol: HTTP Proxy                                  TCP/UDP: TCP
+Port: 3128      Protocol: HTTP Proxy                                  TCP/UDP: TCP
+Port: 3306      Protocol: MySQL                                       TCP/UDP: BOTH
+Port: 3389      Protocol: RDP (Remote Desktop Protocol)               TCP/UDP: TCP 
+Port: 4664      Protocol: Google Desktop                              TCP/UDP: BOTH
+Port: 4672      Protocol: eMule                                       TCP/UDP: BOTH
+Port: 4899      Protocol: Radmin                                      TCP/UDP: BOTH
+Port: 5000      Protocol: UPnP                                        TCP/UDP: UDP
+Port: 5004      Protocol: RTP                                         TCP/UDP: BOTH
+Port: 5050      Protocol: Yahoo! Messenger                            TCP/UDP: BOTH
+Port: 5060      Protocol: SIP                                         TCP/UDP: BOTH
+Port: 5190      Protocol: AIM/ICQ                                     TCP/UDP: BOTH
+Port: 5222      Protocol: XMPP/Jabber                                 TCP/UDP: TCP
+Port: 5223      Protocol: PVP.net (LoL)                               TCP/UDP: TCP
+Port: 5432      Protocol: PostgreSQL                                  TCP/UDP: BOTH
+Port: 5500      Protocol: VNC Server                                  TCP/UDP: TCP
+Port: 5631      Protocol: pcAnywhere                                  TCP/UDP: BOTH
+Port: 5800/5900 Protocol: VNC Server                                  TCP/UDP: TCP
+Port: 6000      Protocol: X11                                         TCP/UDP: TCP
+Port: 6112      Protocol: Battle.net                                  TCP/UDP: BOTH
+Port: 6129      Protocol: DameWare                                    TCP/UDP: BOTH
+Port: 6257      Protocol: WinMX                                       TCP/UDP: BOTH
+Port: 6346      Protocol: P2P Gnutella                                TCP/UDP: BOTH
+Port: 6500      Protocol: GameSpy Arcade                              TCP/UDP: BOTH
+Port: 6566      Protocol: SANE                                        TCP/UDP: BOTH
+Port: 6588      Protocol: AnalogX                                     TCP/UDP: BOTH
+Port: 6665      Protocol: IRC                                         TCP/UDP: TCP
+Port: 6697      Protocol: IRC Over SSL                                TCP/UDP: TCP
+Port: 6881      Protocol: BitTorrent                                  TCP/UDP: TCP
+Port: 6891      Protocol: Live                                        TCP/UDP: BOTH
+Port: 6970      Protocol: Quicktime                                   TCP/UDP: BOTH
+Port: 7212      Protocol: GhostSurf                                   TCP/UDP: BOTH
+Port: 7648      Protocol: CU-SeeMe                                    TCP/UDP: BOTH
+Port: 8000      Protocol: Internet Radio                              TCP/UDP: BOTH
+Port: 8080      Protocol: HTTP (ProxyServers & Apache Tomcat)         TCP/UDP: TCP
+Port: 8086      Protocol: AV                                          TCP/UDP: BOTH
+Port: 8088      Protocol: League Of Legends Spectator Mode            TCP/UDP: BOTH
+Port: 8118      Protocol: Privoxy                                     TCP/UDP: BOTH
+Port: 8200      Protocol: VMware Server                               TCP/UDP: BOTH
+Port: 8500      Protocol: Adobe ColdFusion                            TCP/UDP: BOTH
+Port: 8767      Protocol: TeamSpeak                                   TCP/UDP: BOTH
+Port: 9119      Protocol: MXit                                        TCP/UDP: BOTH
+Port: 9800      Protocol: WebDAV                                      TCP/UDP: BOTH
+Port: 9898      Protocol: Dabber                                      TCP/UDP: BOTH
+Port: 9988      Protocol: Rbot/Spybot                                 TCP/UDP: BOTH
+Port: 10000     Protocol: Webmin                                      TCP/UDP: BOTH
+Port: 10113     Protocol: NetIQ                                       TCP/UDP: BOTH
+Port: 11371     Protocol: OpenPGP                                     TCP/UDP: BOTH
+Port: 12035     Protocol: Life                                        TCP/UDP: BOTH
+Port: 12345     Protocol: NetBus                                      TCP/UDP: BOTH
+Port: 14567     Protocol: Battlefield                                 TCP/UDP: BOTH
+Port: 19226     Protocol: AdminSecure                                 TCP/UDP: BOTH
+Port: 24800     Protocol: Synergy                                     TCP/UDP: BOTH
+Port: 25565     Protocol: Minecraft                                   TCP/UDP: BOTH
+Port: 25999     Protocol: Xfire                                       TCP/UDP: BOTH
+Port: 27015     Protocol: Half-Life                                   TCP/UDP: BOTH
+Port: 27374     Protocol: Sub7                                        TCP/UDP: BOTH
+Port: 28960     Protocol: Call Of Duty                                TCP/UDP: BOTH
+Port: 31337     Protocol: Back Orifice                                TCP/UDP: BOTH
+Port: 33434     Protocol: Traceroute                                  TCP/UDP: UDP

@@ -1,0 +1,44 @@
+VPN VPN VPN VPN VPN! ALWAYS ALWAYS ALWAYS Run A Fucking VPN :D 
+
+Someone asked me awhile back how to remove their information from the sites people use to dox with. Came across this txt document on my computer earlier so figured i'd post it. Most sites that provide personal information, offer an Opt-Out option SOMEWHERE on the site. Although some of the sites don't list this option anywhere visible, it's usually there somewhere. (Simple scraping) can reveal it usually if it's not posted. You simply hit up their Opt-Out page, fill in your personal information (Some of the sites will have you search for your info to be sure you're removing the right person) then submit. Typically they take a couple days, but generally they remove all your info from their site, and sites similar to theirs that use the same database as them. 
+
+Here is where people fail with understanding how removing your info from these sites work. Generally you can STILL find an old cached page somewhere online that has the info from before it was removed "cached" Therefore it doesn't make you a complete "Ghost" online...And, just because you remove your info, verify the site did in fact remove it, doesn't mean it stays removed forever. Over a period of time, these sites repopulate the database they use with newly found information. Therefore, your info can easily end up right back on the same site you had it removed from eventually! So if you're wanting to keep your information offline the best you possibly can....It's good practice to regularly check these sites for your info to make sure it hasn't re-populated! 
+
+Better practice at keeping your information private online, is to NOT use your REAL information ANYWHERE on the internet you post, Public forums, chat systems, ect. Once you remove your info the best you can, generate yourself a new online identity and stick to it. Don't ever link your newly generated identity to any of your personal information, don't access websites or accounts you've accessed with your real identity using the same ip address, ect.  and if you really want to make your "fake identity" a bit more believable....Spam yourself around the net a bit. Go create accounts on tons of websites, forums, emails, ect.. and become quite active for awhile using that information to make your digital footprint with that identity a bit bigger and spread out farther over the web. And by creating a new identity i don't just mean go create an account saying my name is john doe and i was born on December 10th 1980 this is my email...Negative, that's dog shit :D Actually put some effort and time into it and generate a FULL blown identity. There are DOZENS of websites online you can easily find to help with this and generate a full name, DOB, SSN, address, driver's license number, ect. that will ALL verify using different sources to check and see if they are valid or just randomly made up.  For instance, a site like http://www.elfqrin.com has several tools listed to generate a name, address, ssn, credit card number, drivers license number, password hash's, and tons of other personal information about a person. Not saying this is the site i'd recommend, as I use a private generator that I'm not going to release. But this was one of the first i found that looks halfway promising in a simple google search. There are dozens! Play with them, check and see how valid the info they generate is, ect. Then create and stick to your newly generated digital footprint. 
+
+Obviously this is just a start on this subject, as there are MANY other ways to go about this, many other sites besides the ones I'll list below that provide personal information, both public and private, free and paid. But this is a good start for those wondering how exactly to remove their information and prevent people from learning their real identity online. I could sit here for an hour and type methods ect. But Who has time for all that right? :D Just figured I'd contribute a little something to the community since I'm back online after a break :) Enjoy! Any questions, I'll try and answer as quickly as I can. The links posted below are far from all the sites online that give info about you with a simple search, however, removing your info from the sites I list, also removes it from dozens of others as well, as they all use the same database and are all piggy backing off each other basically. You can easily find others with simple google searches, just all depends how serious you are about removing your info. 
+
+I've actually considered throwing together a program that automates the process of this for the most part, but I'm not sure if i'll get around to it or not. Who thinks it would be useful, or would use it if something like that were to exist? Fuck Knows. Time shall tell I suppose!
+
+https://www.truthfinder.com/opt-out/
+https://www.beenverified.com/f/optout/search
+https://www.instantcheckmate.com/opt-out/
+https://www.spokeo.com/optout
+https://www.whitepages.com/suppression_requests
+https://pipl.com/directory/remove/
+http://www.zoominfo.com/lookupEmail
+http://www.zabasearch.com/block_records/
+https://thatsthem.com/optout
+https://www.spydialer.com/optout.aspx
+https://www.peoplesmart.com/optout-go
+https://www.checkpeople.com/optout
+https://www.intelius.com/optout
+https://www.publicrecords360.com/optout.html
+https://www.ussearch.com/privacylock
+https://www.idtrue.com/optout/
+https://www.peekyou.com/about/contact/optout/index.php
+https://publicdatacheck.com/remove-my-information.php
+https://radaris.com/page/how-to-remove
+https://www.usa-people-search.com/manage/default.aspx
+https://optout.lexisnexis.com/oo.jsp
+https://dashboard.towerdata.com/optout/
+https://www.familytreenow.com/optout
+https://members.recordsfinder.com/customer/terms?tab=optout
+https://www.truepeoplesearch.com/removal
+https://www.anywho.com/help/privacy
+https://golookup.com/support/optout
+https://www.allpages.com/about/listings-modification.html
+http://secure.privateeye.com/optout-form.pdf
+https://www.lusha.co/remove_profile
+https://www.peoplefinders.com/manage
+http://govregistry.us/privacy.php
